@@ -1,6 +1,11 @@
+/* * {
+  border: 2px solid red
+} */
+
 *{
     background-color: darkgray;
 }
+
 #page-heading{
     color: darkslategray;
     background-color: gray;
@@ -28,3 +33,4 @@ img{
     font-family: 'Times New Roman', Times, serif;
 
 }
+
